@@ -32,8 +32,8 @@ Dungeons
   - Instant ghost blocks when swinging your pickaxe
  
   Other
-  - Auto Melody
-    - Automatically does melody for you with configurable speeds
+ - Auto Melody
+  - Automatically does melody for you with configurable speeds
 
-  - Auto Experiments
-    - Automatically does your experiments for you with configurable speeds
+- Auto Experiments
+   - Automatically does your experiments for you with configurable speeds
