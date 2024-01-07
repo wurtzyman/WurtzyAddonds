@@ -6,7 +6,7 @@ Dungeon focused QOL mod
 
 **Features**
 
-Dungeons
+*Dungeons*
 - Starred Mob ESP
   - Creates an outline around starred mobs in the dungeons
   
@@ -31,7 +31,7 @@ Dungeons
 - Instant Ghost Blocks
   - Instant ghost blocks when swinging your pickaxe
  
-  Other
+*Other*
  - Auto Melody
    - Automatically does melody for you with configurable speeds
 
